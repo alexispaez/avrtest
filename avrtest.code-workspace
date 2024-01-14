@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "config",
+			"path": "../avrada_examples_1.0.1_72780c76/basic_examples/alire/cache/dependencies/avrada_lib_2.0.2_be6627e4/config"
+		},
+		{
+			"name": "src",
+			"path": "../avrada_examples_1.0.1_72780c76/basic_examples/alire/cache/dependencies/avrada_lib_2.0.2_be6627e4/src"
+		}
+	],
+	"settings": {}
+}
